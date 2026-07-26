@@ -13,8 +13,6 @@ body{
 	display: flex;
 	flex-direction: column;
 }
-
-/* Website Title */
 .container{
     padding: 30px;
 	position: relative;
@@ -51,8 +49,6 @@ body{
     font-size: 20px;
     margin: -5px 0 0;
 }
-
-/* Text Area */
 .ml-container{
     margin: 30px 0;
 	flex: 1 0 auto;
@@ -64,8 +60,6 @@ body{
 	height: 25px;
 	margin-bottom: 5px;
 }
-
-/* Predict Button */
 .my-cta-button{
 	background: #f9f9f9;
    	border: 2px solid #000000;
@@ -87,8 +81,6 @@ body{
 .my-cta-button:active{
     box-shadow: 0 0;
 }
-
-/* Contact */
 .contact-icon{
 	color: #ffffff;
 	padding: 7px;
@@ -97,8 +89,6 @@ body{
 .contact-icon:hover{
 	color: #8c8c8c;
 }
-
-/* Footer */
 .footer{
 	flex-shrink: 0;
 	position: relative;
@@ -113,8 +103,6 @@ body{
 	margin: 0;
 	font-size: 12px;
 }
-
-/* Result */
 .results{
     padding: 30px 0 0;
 	flex: 1 0 auto;
